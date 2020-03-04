@@ -17,7 +17,7 @@ In **................ (Stad)**, op **................ (Dato)**
 Geachte,
 
 Ik contacteer u, de functionerende functionaris voor gegevensbescherming binnen uw bedrijf,
-met de aanvraag voor toegang tot mijn persoonsgegevens behoudens Artikel 15 van de Wetgeving (EU) 2016/679 van het Europees Parlement and van de Europese Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EC (de algemene verordening gegevensbescherming; hierna vermeld als AVR). Ik voeg tevens een document als bewijs van mijn identiteit toe.
+met de aanvraag voor toegang tot mijn persoonsgegevens behoudens Artikel 15 van de Wetgeving (EU) 2016/679 van het Europees Parlement en van de Europese Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EC (de algemene verordening gegevensbescherming; hierna vermeld als AVR). Ik voeg tevens een document als bewijs van mijn identiteit toe.
 
 Gelieve informatie te verstrekken over de volgende zaken:
 
@@ -45,11 +45,11 @@ Gelieve informatie te verstrekken over de volgende zaken:
    a) Indien u de derden waarmee u mijn persoonsgegevens gedeeld heeft niet met zekerheid kunt identificeren, verstrek een lijst van derden met wie u mogelijks mijn persoonsgegevens heeft gedeeld.
 
    b) Identificatie van de rechtsgebieden waar deze derden (zoals vermeld in 3. en
-   3.a). Duid ook de juridische voorwaarden aan waaronder mijn persoonsgegevens toegankelijk zijn gemaakt. Bied Inzicht in de juridische voorwaarden waaronder mijn persoonsgegevens overgebracht zijn naar deze jurisdicties. Verstrek ook een kopie van de vrijwaringen, indien u die heeft toegepast, of nog aan het toepassen bent.
+   3.a). Duid ook de juridische voorwaarden aan waaronder mijn persoonsgegevens toegankelijk zijn gemaakt. Bied inzicht in de juridische voorwaarden waaronder mijn persoonsgegevens overgebracht zijn naar deze jurisdicties. Verstrek ook een kopie van de vrijwaringen, indien u die heeft toegepast, of nog aan het toepassen bent.
 
    c) Aanvullende informatie over welke vrijwaringen op grond van Artikel 46 van de AVR die u heeft ingevoerd in verband met de overdracht van mijn persoonsgegevens aan de derden die u heeft geïndentificeerd.
 
-4. Informatie over de duur van de opslag van mijn persoonsgegevens en ui het behoud hiervan gebaseerd is op de soort persoonsgegevens. Alsook informatie over hoe lang deze duur is voor iedere soort persoonsgegevens.
+4. Informatie over de duur van de opslag van mijn persoonsgegevens en of het behoud hiervan gebaseerd is op de soort persoonsgegevens. Alsook informatie over hoe lang deze duur is voor iedere soort persoonsgegevens.
 
 5. Informatie over aanvullende bronnen van mijn persoonsgegevens indien u informatie inwint van andere bronnen buiten mezelf, zoals vermeld in Artikel 14 van de AVR.
 
@@ -82,7 +82,7 @@ Gelieve informatie te verstrekken over de volgende zaken:
 
    i. Encryptie van mijn persoonsgegevens;
 
-   ii. Gegevensminimalisatie; of,
+   ii. Gegevensminimalisatie;
 
    iii. Anonimiseringsmethode of pseudonimisering;
 
@@ -105,7 +105,7 @@ Gelieve informatie te verstrekken over de volgende zaken:
 
    iii. Toegangs- en identiteitsbeheer;
 
-   iv. Database controle en/of beveiligingsmiddelen; of,
+   iv. Database controle en/of beveiligingsmiddelen;
 
    v. Gedragsanalyse tools, loganalyse tools, of audit tools;
 
@@ -121,7 +121,7 @@ Gelieve informatie te verstrekken over de volgende zaken:
    persoonsgegevens, of de gegevens van klanten in de laatste 12 maanden.
 
    c) Informatie over wat voor maatregelen tot training en sensibilisering u heeft ondernomen om te verzekeren dat werknemers en aannemers mijn
-   persooonsgegevens conform de algeme verordening gegevensbescherming toegang nemen tot mijn persoonsgegevens.
+   persoonsgegevens conform de algeme verordening gegevensbescherming toegang nemen tot mijn persoonsgegevens.
 
 Tenslotte wil ik u ervan bewust maken dat ik antwoord verwacht op dit verzoek binnen een maand, zoals vereist onder Artikel 12 van de AVR. Indien u hier geen gevolg aan geeft ben ik genoodzaakt om deze aanvraag door te zenden naar de relevante gegevensbeschermingsautoriteiten. Indien u niet capabel bent om antwoord te geven binnen de gespecificeerde datum omwille van de complexiteit van mijn verzoek, en u de termijn verzoekt te verlengen, zoals voorgeschreven onder de AVR, gelieve mij dan een zo gedetailleerd mogelijk antwoord te geven binnen de originele termijn van een maand. Gelieve meteen contact met me op te nemen indien u meer informatie over me nodig als bewijs van identiteit als
 persoon waarvan de gegevens verwerkt worden door u.
